@@ -1,0 +1,3 @@
+Initial Commmit
+
+Watering Hole Pebble Application from 2015 Sparthack Hackathon at Michigan State University 
